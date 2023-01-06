@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: aliceblue;
+    align-items: center;
+}
+
+.box{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
